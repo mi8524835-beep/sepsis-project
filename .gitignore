@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+myenv/
+
+# macOS
+.DS_Store
+
+# Data files
+sepsis_data/*.parquet
+sepsis_data/*.csv
+sepsis_data/*.jpg
+sepsis_data/*.png
+
+# Large artifacts
+*.parquet
